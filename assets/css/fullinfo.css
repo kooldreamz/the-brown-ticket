@@ -799,7 +799,7 @@ services
   background-size: cover;
   background-position: center center;
   text-align: left;
-  color: #fff;
+  color: #ff8e00;
   padding: 70px;
   padding-left: 150px;
 }
@@ -813,7 +813,7 @@ services
 }
 
 .services .item p {
-  color: #fff;
+  color: #ff8e00;
   font-size: 13px;
 }
 
@@ -2035,7 +2035,7 @@ responsive
   background-repeat: no-repeat;
   background-size: cover;
   /* background-color: #251603; */
-  color: #ffffff;
+  color: #ff8e00;
   padding: 165px 0 75px 0;
 }
 
