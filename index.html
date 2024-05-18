@@ -1,4 +1,5 @@
 <?php 
+header('Content-Type: text/html; charset=utf-8');
 if(isset($_POST['submit'])){
     $to = "teamthebrownticket@gmail.com"; // this is your Email address
     $from = $_POST['email']; // this is the sender's Email address
@@ -272,8 +273,8 @@ if(isset($_POST['submit'])){
     <div class="container">
       <div class="row">
         <div class="col-lg-12">
-          <div class="section-heading">
-            <h2>Upcoming Fixed Group travels</h2>
+          <div class="section-heading-blk">
+            <h2><br><br>Upcoming Fixed Group travels</h2><br><br>
           </div>
         </div>
         <div class="col-lg-4">
@@ -307,7 +308,7 @@ if(isset($_POST['submit'])){
                   <div class="price">
                     <span>86000 INR</span>
                   </div>
-                  <a href="ladakh.html"><img src="assets/images/IMG_8799.jpeg" alt="New Lecturer Meeting"></a>
+                  <a href="ladakh.html"><img src="assets/images/IMG_8799.jpeg" alt="New Lecturer Meeting" style="height:400px;"></a>
                 </div>
                 <div class="down-content">
                   <div class="date">
@@ -336,7 +337,7 @@ if(isset($_POST['submit'])){
                   <div class="price">
                     <span>26000 INR</span>
                   </div>
-                  <a href="Andretta.html"><img src="assets/images/Tsomoriri.jpg" alt="New Lecturer Meeting"></a>
+                  <a href="Andretta.html"><img src="assets/images/Tsomoriri.jpg" alt="New Lecturer Meeting"style="height:400px;"></a>
                 </div>
                 <div class="down-content">
                   <div class="date">
@@ -366,7 +367,7 @@ if(isset($_POST['submit'])){
                   <div class="price">
                     <span>18000 INR</span>
                   </div>
-                  <a href="Chanderi.html"><img src="assets/images/PXL_20231001_031200508.jpg" alt="New Lecturer Meeting"></a>
+                  <a href="Chanderi.html"><img src="assets/images/PXL_20231001_031200508.jpg" alt="New Lecturer Meeting" style="height:400px;"></a>
                 </div>
                 <div class="down-content">
                   <div class="date">
@@ -916,59 +917,44 @@ if(isset($_POST['submit'])){
   </section>
   -->
 
-<!--
+
   <section class="our-facts">
     <div class="container">
       <div class="row">
-        <div class="col-lg-6">
-          <div class="row">
-            <div class="col-lg-12">
-              <h2>A Few Facts About <br> The Brown Ticket</h2>
-            </div>
-            <div class="col-lg-6">
-              <div class="row">
-                <div class="col-12">
-                  <div class="count-area-content percentage">
-                    <div class="count-digit">100</div>
-                    <div class="count-title">Successed Tours</div>
-                  </div>
-                </div>
-                <div class="col-12">
-                  <div class="count-area-content">
-                    <div class="count-digit">126</div>
-                    <div class="count-title">Places Visited</div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="col-lg-6">
-              <div class="row">
-                <div class="col-12">
-                  <div class="count-area-content new-students">
-                    <div class="count-digit">245</div>
-                    <div class="count-title">Featured Tours</div>
-                  </div>
-                </div>
-                <div class="col-12">
-                  <div class="count-area-content">
-                    <div class="count-digit">1435</div>
-                    <div class="count-title">Happy Clients</div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-6 align-self-center">
-          <div class="video">
-            <a href="#" target="_blank"><img src="assets/images/play-icon.png" alt=""></a>
-          </div>
+        <div class="section-heading-wht">
+          <h2>TBT in numbers till date</h2><br><br>
         </div>
       </div>
+      <div class="row">
+        <div class="col-3">
+          <div class="count-area-content">
+            <div class="count-digit">11</div>
+            <div class="count-title">Explorers pan India</div>
+          </div>
+        </div>
+        <div class="col-3">
+          <div class="count-area-content">
+            <div class="count-digit">2160</div>
+            <div class="count-title">Trips/Walks/Events</div>
+          </div>
+        </div>
+        <div class="col-3">
+          <div class="count-area-content">
+            <div class="count-digit">15300</div>
+            <div class="count-title">Participants</div>
+          </div>
+        </div>
+        <div class="col-3">
+          <div class="count-area-content">
+            <div class="count-digit">34</div>
+            <div class="count-title">Destinations</div>
+          </div>
+        </div>
     </div>
-  </section>-->
-
+  </section>
+  
   <form action="" method="post">
+    
     First Name: <input type="text" name="first_name"><br>
     Last Name: <input type="text" name="last_name"><br>
     Email: <input type="text" name="email"><br>
@@ -1070,7 +1056,6 @@ if(isset($_POST['submit'])){
   <section class="copyright" id="contact">
     <div class="footer">
       <p>Copyright © 2023 The Brown Ticket. All Rights Reserved.
-        <br>Design: <a href="https://www.edristech.com" target="_parent" title="free css templates">Edris</a>
       </p>
     </div>
   </section>
