@@ -104,7 +104,7 @@ ul {
 p {
   font-size: 14px;
   line-height: 25px;
-  color: #2a2a2a;
+  color: #44290E;
 }
 
 img {
@@ -152,7 +152,7 @@ body {
 .main-button-red a {
   font-size: 13px;
   color: #fff;
-  background-color: #251603;
+  background-color: #44290E;
   padding: 12px 30px;
   display: inline-block;
   border-radius: 22px;
@@ -168,7 +168,7 @@ body {
 .main-button-yellow a {
   font-size: 13px;
   color: #fff;
-  background-color: #251603;
+  background-color: #44290E;
   padding: 12px 30px;
   display: inline-block;
   border-radius: 22px;
@@ -190,7 +190,7 @@ body {
   font-size: 22px;
   font-weight: 700;
   text-transform: uppercase;
-  color: #513518;
+  color: #44290E;
 }
 
 .section-heading-blk h2 {
@@ -203,7 +203,7 @@ body {
   font-size: 22px;
   font-weight: 700;
   text-transform: uppercase;
-  color: #513518;
+  color: #44290E;
 }
 .section-heading-wht h2 {
   line-height: 40px;
@@ -223,7 +223,7 @@ body {
   margin-bottom: 50px; 
   /* border-bottom: 1px solid #fff; */
   font-size: 16px;
-  color: #513518;
+  color: #44290E;
 }
 
 
@@ -234,7 +234,7 @@ header
 */
 
 .sub-header {
-  background-color: #1f272b;
+  background-color: #44290E;
   position: relative;
   z-index: 1111;
 }
@@ -281,20 +281,20 @@ header
 }
 
 .background-header .main-nav .nav li a {
-  color: #1e1e1e!important;
+  color: #44290E!important;
 }
 
 .background-header .logo,
 .background-header .main-nav .nav li a {
-  color: #1e1e1e!important;
+  color: #44290E!important;
 }
 
 .background-header .main-nav .nav li:hover a {
-  color: #543208!important;
+  color: #44290E!important;
 }
 
 .background-header .nav li a.active {
-  color: #543208!important;
+  color: #44290E!important;
 }
 
 .header-area {
@@ -402,7 +402,7 @@ header
 }
 
 .background-header .main-nav .nav li.has-sub:after {
-  color: #1e1e1e;
+  color: #44290E;
 }
 
 .header-area .main-nav .nav li.has-sub ul.sub-menu {
@@ -428,7 +428,7 @@ header
   opacity: 1;
   display: block;
   background: #f7f7f7;
-  color: #2a2a2a!important;
+  color: #44290E!important;
   padding-left: 20px;
   height: 40px;
   line-height: 40px;
@@ -484,7 +484,7 @@ header
   -o-transition: all 0.4s;
   -webkit-transition: all 0.4s;
   transition: all 0.4s;
-  background-color: #1e1e1e;
+  background-color: #44290E;
   display: block;
   position: absolute;
   width: 30px;
@@ -495,7 +495,7 @@ header
 .background-header .main-nav .menu-trigger span,
 .background-header .main-nav .menu-trigger span:before,
 .background-header .main-nav .menu-trigger span:after {
-  background-color: #1e1e1e;
+  background-color: #44290E;
 }
 
 .header-area .main-nav .menu-trigger span:before,
@@ -504,7 +504,7 @@ header
   -o-transition: all 0.4s;
   -webkit-transition: all 0.4s;
   transition: all 0.4s;
-  background-color: #1e1e1e;
+  background-color: #44290E;
   display: block;
   position: absolute;
   width: 30px;
@@ -515,7 +515,7 @@ header
 
 .background-header .main-nav .menu-trigger span:before,
 .background-header .main-nav .menu-trigger span:after {
-  background-color: #1e1e1e;
+  background-color: #44290E;
 }
 
 .header-area .main-nav .menu-trigger span:before,
@@ -556,11 +556,11 @@ header
   -ms-transform: translateY(6px) translateX(1px) rotate(45deg);
   -webkit-transform: translateY(6px) translateX(1px) rotate(45deg);
   transform: translateY(6px) translateX(1px) rotate(45deg);
-  background-color: #1e1e1e;
+  background-color: #44290E;
 }
 
 .background-header .main-nav .menu-trigger.active span:before {
-  background-color: #1e1e1e;
+  background-color: #44290E;
 }
 
 .header-area .main-nav .menu-trigger.active span:after {
@@ -568,11 +568,11 @@ header
   -ms-transform: translateY(-6px) translateX(1px) rotate(-45deg);
   -webkit-transform: translateY(-6px) translateX(1px) rotate(-45deg);
   transform: translateY(-6px) translateX(1px) rotate(-45deg);
-  background-color: #1e1e1e;
+  background-color: #44290E;
 }
 
 .background-header .main-nav .menu-trigger.active span:after {
-  background-color: #1e1e1e;
+  background-color: #44290E;
 }
 
 .header-area.header-sticky {
@@ -599,7 +599,7 @@ header
 
 @media (max-width: 767px) {
   .header-area .main-nav .logo {
-    color: #1e1e1e;
+    color: #44290E;
   }
   .header-area.header-sticky .nav li a:hover,
   .header-area.header-sticky .nav li a.active {
@@ -657,7 +657,7 @@ header
     padding: 0px !important;
     border: none !important;
     background: #f7f7f7 !important;
-    color: #191a20 !important;
+    color: #44290E !important;
   }
   .header-area .main-nav .nav li a:hover {
     background: #eee !important;
@@ -686,7 +686,7 @@ header
     height: auto;
   }
   .header-area .main-nav .nav li.has-sub:after {
-    color: #3B566E;
+    color: #44290E;
     right: 30px;
     font-size: 14px;
     top: 15px;
@@ -865,7 +865,7 @@ services
 .services .owl-nav .owl-prev:before {
   display: inline-block;
   font-family: 'FontAwesome';
-  color: #1e1e1e;
+  color: #44290E;
   font-size: 25px;
   font-weight: 700;
   content: '\f104';
@@ -904,7 +904,7 @@ services
 .services .owl-nav .owl-next:before {
   display: inline-block;
   font-family: 'FontAwesome';
-  color: #1e1e1e;
+  color: #44290E;
   font-size: 25px;
   font-weight: 700;
   content: '\f105';
@@ -965,7 +965,7 @@ section.upcoming-meetings .categories {
 section.upcoming-meetings .categories h4 {
   font-size: 18px;
   font-weight: 600;
-  color: #1f272b;
+  color: #44290E;
   margin-bottom: 30px;
   padding-bottom: 20px;
   border-bottom: 1px solid #eee;
@@ -990,7 +990,7 @@ section.upcoming-meetings .categories ul li a {
 }
 
 section.upcoming-meetings .categories ul li a:hover {
-  color: #251603;
+  color: #44290E;
 }
 
 section.upcoming-meetings .categories .main-button-red {
@@ -1028,7 +1028,7 @@ section.upcoming-meetings .categories .main-button-red a {
 
 .meeting-item .thumb .price span {
   font-size: 16px;
-  color: #1f272b;
+  color: #44290E;
   font-weight: 600;
   background-color: rgba(250,250,250,0.9);
   padding: 7px 12px;
@@ -1060,14 +1060,14 @@ section.upcoming-meetings .categories .main-button-red a {
 
 .meeting-item .down-content .date span {
   display: block;
-  color: #1f272b;
+  color: #44290E;
   font-size: 22px;
   margin-top: 7px;
 }
 
 .meeting-item .down-content h4 {
   font-size: 18px;
-  color: #1f272b;
+  color: #44290E;
   font-weight: 600;
   display: inline-block;
   margin-bottom: 15px;
@@ -1075,7 +1075,7 @@ section.upcoming-meetings .categories .main-button-red a {
 
 .meeting-item .down-content p {
   margin-left: 50px;
-  color: #1f272b;
+  color: #44290E;
   font-size: 14px;
 }
 
@@ -1103,7 +1103,7 @@ section.apply-now .item {
 }
 
 section.apply-now .item h3 {
-  color: #513518;
+  color: #44290E;
   text-transform: uppercase;
   font-size: 24px;
   font-weight: 700;
@@ -1111,7 +1111,7 @@ section.apply-now .item h3 {
 }
 
 section.apply-now .item p {
-  color: #513518;
+  color: #44290E;
   margin-bottom: 20px;
 }
 
@@ -1131,7 +1131,7 @@ section.apply-now .item p {
   padding: 20px;  
   font-size: 18px;
   font-weight: 700;
-  color: #1f272b;
+  color: #44290E;
   cursor: pointer;
   transition: color 200ms ease-in-out;
   border-bottom: 1px solid #fff;
@@ -1201,7 +1201,7 @@ section.our-courses {
   padding-top: 20px;
   padding-bottom: 2px;
   font-size: 18px;
-  color: #1f272b;
+  color: #44290E;
   text-align: center; 
   border-bottom: 1px solid #eee;
 }
@@ -1216,7 +1216,7 @@ section.our-courses {
 .our-courses .item .down-content p {
   padding: 25px;
   font-size: 11px;
-  color: #1f272b;
+  color: #44290E;
   text-align: center; 
   border-bottom: 1px solid #eee;
 }
@@ -1291,7 +1291,7 @@ section.our-courses {
 .our-courses .owl-nav .owl-prev:before {
   display: inline-block;
   font-family: 'FontAwesome';
-  color: #1e1e1e;
+  color: #44290E;
   font-size: 25px;
   font-weight: 700;
   content: '\f104';
@@ -1330,7 +1330,7 @@ section.our-courses {
 .our-courses .owl-nav .owl-next:before {
   display: inline-block;
   font-family: 'FontAwesome';
-  color: #1e1e1e;
+  color: #44290E;
   font-size: 25px;
   font-weight: 700;
   content: '\f105';
@@ -1437,7 +1437,7 @@ section.contact-us #contact {
 
 section.contact-us #contact h2 {
   text-transform: uppercase;
-  color: #1f272b;
+  color: #44290E;
   border-bottom: 1px solid #eee;
   margin-bottom: 40px;
   padding-bottom: 20px;
@@ -1478,8 +1478,8 @@ section.contact-us #contact textarea {
 
 section.contact-us #contact button {
   font-size: 13px;
-  color: #fff;
-  background-color: #251603;
+  color: #Ff8e00;
+  background-color: #44290E;
   padding: 12px 30px;
   display: inline-block;
   border-radius: 22px;
@@ -1495,7 +1495,7 @@ section.contact-us #contact button:hover {
 }
 
 section.contact-us .right-info {
-  background-color: #251603;
+  background-color: #44290E;
   border-radius: 0px;
   padding: 40px;
 }
@@ -1515,9 +1515,9 @@ section.contact-us .right-info ul li:last-child {
 }
 
 section.contact-us .right-info ul li h6 {
-  color: #fff;
-  font-size: 15px;
-  font-weight: 300;
+  color: #Ff8e00;
+  font-size: 16px;
+  font-weight: 400;
   margin-bottom: 10px;
   line-height: 25px;
 }
@@ -1541,7 +1541,7 @@ section.contact-us .right-info ul li span {
 .footer p {
   text-transform: uppercase;
   font-size: 14px;
-  color: #513518;
+  color: #44290E;
 }
 
 .footer p a {
@@ -1642,7 +1642,7 @@ section.meetings-page .pagination ul li a {
   height: 40px;
   background-color: #fff;
   border-radius: 10px;
-  color: #1f272b;
+  color: #44290E;
   display: inline-block;
   text-align: center;
   line-height: 40px;
@@ -1663,7 +1663,7 @@ section.meetings-page .main-button-red a {
 
 section.meetings-page .pagination ul li.active a,
 section.meetings-page .pagination ul li a:hover {
-  background-color: #251603;
+  background-color: #44290E;
   color: #fff;
 }
 
@@ -1684,7 +1684,7 @@ section.meetings-page .pagination ul li a:hover {
 
 .meeting-single-item .thumb .price span {
   font-size: 16px;
-  color: #1f272b;
+  color: #44290E;
   font-weight: 600;
   background-color: rgba(250,250,250,0.9);
   padding: 7px 12px;
@@ -1719,14 +1719,14 @@ section.meetings-page .pagination ul li a:hover {
 
 .meeting-single-item .thumb .date span {
   display: block;
-  color: #1f272b;
+  color: #44290E;
   font-size: 22px;
   margin-top: 7px;
 }
 
 .meeting-single-item .down-content h4 {
   font-size: 22px;
-  color: #1f272b;
+  color: #44290E;
   font-weight: 600;
   display: inline-block;
   margin-bottom: 15px;
@@ -1734,14 +1734,14 @@ section.meetings-page .pagination ul li a:hover {
 
 .meeting-single-item .down-content h5 {
   font-size: 18px;
-  color: #1f272b;
+  color: #44290E;
   font-weight: 700;
   display: inline-block;
   margin-bottom: 15px;
 }
 
 .meeting-single-item .down-content p {
-  color: #1f272b;
+  color: #44290E;
   font-size: 14px;
 }
 
@@ -1772,7 +1772,7 @@ section.meetings-page .pagination ul li a:hover {
 
 .meeting-single-item .down-content .share ul li a {
   font-size: 14px;
-  color: #1f272b;
+  color: #44290E;
   transition: all .3s;
 }
 
@@ -1971,7 +1971,7 @@ responsive
   }
 
   .header-area .main-nav .nav li ul.sub-menu li a {
-    color: #1f272b;
+    color: #44290E;
   }
 
   .services {
@@ -2002,7 +2002,7 @@ responsive
   border: none;
   outline: none;
   padding: 10px 14px;
-  background-color: #251603;
+  background-color: #44290E;
   color: #fff;
   cursor: pointer;
 }
@@ -2013,7 +2013,7 @@ responsive
 }
 
 .btn.active {
-  background-color: #251603;
+  background-color: #44290E;
   color: white;
 }
 
@@ -2157,7 +2157,7 @@ responsive
 @media (max-width: 767px) {
 
   .info_section .container{
-    background-color: #251603;
+    background-color: #44290E;
     color: #ffffff;
     padding: 10px 35px ;
   }
@@ -2183,7 +2183,7 @@ section.copyright #contact {
 
 section.copyright #contact h2 {
   text-transform: uppercase;
-  color: #1f272b;
+  color: #44290E;
   border-bottom: 1px solid #eee;
   margin-bottom: 40px;
   padding-bottom: 20px;
@@ -2225,7 +2225,7 @@ section.copyright #contact textarea {
 section.copyright #contact button {
   font-size: 13px;
   color: #fff;
-  background-color: #251603;
+  background-color: #44290E;
   padding: 12px 30px;
   display: inline-block;
   border-radius: 22px;
@@ -2241,7 +2241,7 @@ section.copyright #contact button:hover {
 }
 
 section.copyright .right-info {
-  background-color: #251603;
+  background-color: #44290E;
   border-radius: 20px;
   padding: 40px;
 }
@@ -2309,7 +2309,7 @@ section.copyright .right-info ul li span {
 
 /* Create an active/current "tab button" class */
 .tab button.active {
-  background-color: #251603;
+  background-color: #44290E;
 }
 
 /* Style the tab content */
