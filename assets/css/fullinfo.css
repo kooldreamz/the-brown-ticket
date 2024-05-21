@@ -742,7 +742,7 @@ banner
 .main-banner .caption {
   position: absolute;
   top: 50%;
-  transform: translateY(-50%);
+  transform: translateY(-220px);
 }
 
 .main-banner .caption h6 {
