@@ -223,6 +223,7 @@ body {
   margin-bottom: 50px; 
   /* border-bottom: 1px solid #fff; */
   font-size: 16px;
+  padding: 10px;
   color: #44290E;
 }
 
@@ -742,7 +743,7 @@ banner
 .main-banner .caption {
   position: absolute;
   top: 50%;
-  transform: translateY(-220px);
+  transform: translateY(-40%);
 }
 
 .main-banner .caption h6 {
