@@ -115,6 +115,7 @@
 		dots: true,
 		nav: true,
 		autoplay: true,
+		autoplayTimeout:8000,
 		margin:30,
 		  responsive:{
 			  0:{
@@ -135,6 +136,7 @@
 		dots: true,
 		nav: true,
 		autoplay: true,
+		autoplayTimeout:10000,
 		margin:30,
 		  responsive:{
 			  0:{
