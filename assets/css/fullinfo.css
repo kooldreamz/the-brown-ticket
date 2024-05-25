@@ -220,7 +220,7 @@ body {
 .main_p_info {
   line-height: 40px;
   margin-top: 0px;
-  margin-bottom: 50px; 
+  margin-bottom: 10px; 
   /* border-bottom: 1px solid #fff; */
   font-size: 16px;
   padding: 10px;
@@ -1055,7 +1055,7 @@ section.upcoming-meetings .categories .main-button-red a {
   font-size: 13px;
   text-transform: uppercase;
   font-weight: 600;
-  color: #a12c2f;
+  color: #ff8e00;
 }
 
 .meeting-item .down-content .date span {
@@ -1237,7 +1237,7 @@ section.our-courses {
 }
 
 .our-courses .item .down-content .info span {
-  color: #a12c2f;
+  color: #ff8e00;
   font-size: 15px;
   font-weight: 600;
   text-align: right;
@@ -1557,20 +1557,21 @@ heading page
 
 section.heading-page {
   background-image: url(../images/heading-bg.jpg);
+  background-color: rgba(205, 163, 121, 0.478);
+  background-blend-mode: lighten;
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
-  padding-top: 230px;
+  padding-top: 100px;
   padding-bottom: 110px;
-  text-align: center;
+  text-align: left;
 }
 
 section.heading-page h6 {
   margin-top: 0px;
   font-size: 15px;
-  text-transform: uppercase;
-  font-weight: 600;
-  color: #fff;
+  font-weight: 450;
+  color: #44290E;
   letter-spacing: 1px;
 }
 
@@ -1580,7 +1581,7 @@ section.heading-page h2 {
   font-size: 36px;
   text-transform: uppercase;
   font-weight: 800;
-  color: #fff;
+  color: #44290E;
   letter-spacing: 1px;
 }
 
@@ -1608,7 +1609,7 @@ section.meetings-page .filters {
 
 section.meetings-page .filters li {
   font-size: 13px;
-  color: #a12c2f;
+  color: #ff8e00;
   background-color: #fff;
   padding: 11px 30px;
   display: inline-block;
@@ -1622,7 +1623,7 @@ section.meetings-page .filters li {
 
 section.meetings-page .filters ul li.active,
 section.meetings-page .filters ul li:hover {
-  background-color: #a12c2f;
+  background-color: #ff8e00;
   color: #fff;
 }
 
