@@ -1153,6 +1153,8 @@ apply now
 
 section.apply-now {
   background-image: url(../images/apply-bg.jpg);
+  background-color: rgba(210, 209, 177, 0.583);
+  background-blend-mode: lighten;
   background-position: center center;
   background-attachment: fixed;
   background-repeat: no-repeat;
