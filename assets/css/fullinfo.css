@@ -1742,7 +1742,13 @@ section.meetings-page .pagination ul li a:hover {
   display: inline-block;
   margin-bottom: 15px;
 }
-
+.meeting-single-item .down-content h6 {
+  font-size: 14px;
+  color: #44290E;
+  font-weight: 400;
+  display: inline-block;
+  margin-bottom: 0px;
+}
 .meeting-single-item .down-content p {
   color: #44290E;
   font-size: 14px;
