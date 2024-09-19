@@ -1577,6 +1577,13 @@ section.heading-page h6 {
   letter-spacing: 1px;
 }
 
+section.heading-page h3 {
+  margin-top: 0px;
+  font-size: 25px;
+  font-weight: 450;
+  color: #Ff8e00;
+  letter-spacing: 1px;
+}
 section.heading-page h2 {
   margin-top: 20px;
   margin-bottom: 20px;
